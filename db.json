@@ -1,0 +1,175 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Suç ve Ceza",
+            "author": "Dostoyevski",
+            "image": "https://picsum.photos/600",
+            "year": 1866,
+            "page": 500,
+            "description": "Raskolnikov Kaçtı"
+        },
+        {
+            "id": "2",
+            "title": "1984",
+            "author": "George Orwell",
+            "image": "https://picsum.photos/601",
+            "year": 1949,
+            "page": 328,
+            "description": "Totaliter bir distopya"
+        },
+        {
+            "id": "3",
+            "title": "Yüzüklerin Efendisi",
+            "author": "J.R.R. Tolkien",
+            "image": "https://picsum.photos/602",
+            "year": 1954,
+            "page": 1178,
+            "description": "Orta Dünya'nın epik macerası"
+        },
+        {
+            "id": "4",
+            "title": "Harry Potter ve Felsefe Taşı",
+            "author": "J.K. Rowling",
+            "image": "https://picsum.photos/603",
+            "year": 1997,
+            "page": 223,
+            "description": "Bir büyücülük serüveni başlıyor"
+        },
+        {
+            "id": "5",
+            "title": "Uğultulu Tepeler",
+            "author": "Emily Bronte",
+            "image": "https://picsum.photos/604",
+            "year": 1847,
+            "page": 342,
+            "description": "Aşk ve intikamın öyküsü"
+        },
+        {
+            "id": "6",
+            "title": "Sefiller",
+            "author": "Victor Hugo",
+            "image": "https://picsum.photos/605",
+            "year": 1862,
+            "page": 1232,
+            "description": "İnsanlık ve iyilik üzerine bir destan"
+        },
+        {
+            "id": "7",
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "image": "https://picsum.photos/606",
+            "year": 1877,
+            "page": 864,
+            "description": "Aşk, ihanet ve toplumun çalkantıları"
+        },
+        {
+            "id": "8",
+            "title": "Don Quijote",
+            "author": "Miguel de Cervantes",
+            "image": "https://picsum.photos/607",
+            "year": 1605,
+            "page": 863,
+            "description": "Bir rüya kahramanının serüveni"
+        },
+        {
+            "id": "9",
+            "title": "Yerdeniz Büyücüsü",
+            "author": "Ursula K. Le Guin",
+            "image": "https://picsum.photos/608",
+            "year": 1968,
+            "page": 183,
+            "description": "Fantastik bir macera"
+        },
+        {
+            "id": "10",
+            "title": "Çavdar Tarlasında Çocuklar",
+            "author": "J.D. Salinger",
+            "image": "https://picsum.photos/609",
+            "year": 1951,
+            "page": 277,
+            "description": "Ergenlik dönemi sıkıntıları"
+        },
+        {
+            "id": "11",
+            "title": "Prestij",
+            "author": "Christopher Priest",
+            "image": "https://picsum.photos/610",
+            "year": 1995,
+            "page": 360,
+            "description": "Büyülü bir rekabet"
+        },
+        {
+            "id": "12",
+            "title": "Monte Cristo Kontu",
+            "author": "Alexandre Dumas",
+            "image": "https://picsum.photos/611",
+            "year": 1844,
+            "page": 1276,
+            "description": "İntikam ve ihtişam"
+        },
+        {
+            "id": "13",
+            "title": "Bülbülü Öldürmek",
+            "author": "Harper Lee",
+            "image": "https://picsum.photos/612",
+            "year": 1960,
+            "page": 376,
+            "description": "Irkçılıkla mücadele ve büyüme öyküsü"
+        },
+        {
+            "id": "14",
+            "title": "Bin Dokuz Yüz Seksen Dört",
+            "author": "George Orwell",
+            "image": "https://picsum.photos/613",
+            "year": 1949,
+            "page": 328,
+            "description": "Totaliter bir distopya"
+        },
+        {
+            "id": "15",
+            "title": "Veba Geceleri",
+            "author": "Albert Camus",
+            "image": "https://picsum.photos/614",
+            "year": 1947,
+            "page": 308,
+            "description": "Toplumun yozlaşması ve insanın varoluşu"
+        },
+        {
+            "id": "16",
+            "title": "Dönüşüm",
+            "author": "Franz Kafka",
+            "image": "https://picsum.photos/615",
+            "year": 1915,
+            "page": 44,
+            "description": "Bir adamın böceğe dönüşümü"
+        },
+        {
+            "id": "17",
+            "title": "Cesur Yeni Dünya",
+            "author": "Aldous Huxley",
+            "image": "https://picsum.photos/616",
+            "year": 1932,
+            "page": 288,
+            "description": "Distopik bir toplum portresi"
+        },
+        {
+            "id": 18,
+            "title": "Cennetin Doğusu",
+            "author": "John Steinbeck",
+            "image": "https://picsum.photos/617",
+            "year": 1952,
+            "page": 601,
+            "description": "Bir aile efsanesi"
+        },
+        {
+            "id": "19",
+            "title": "Şeker Portakalı",
+            "author": "Jose Mauro de Vasconcelos",
+            "image": "https://picsum.photos/618",
+            "year": 1968,
+            "page": 216,
+            "description": "Bir çocuğun hayatı"
+        }
+    ]
+}
